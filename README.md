@@ -1,1 +1,1 @@
-# Word-Prediction-and-Spelling-Correction
+# Word Prediction and Spelling Correction
