@@ -1,0 +1,8 @@
+This is a small sample corpus for testing the LSTM text generation workflow. 
+It contains multiple sentences to provide some basic context for the model. 
+Natural language processing tasks like text generation require sufficient data. 
+Training on this small file will be quick but the results will not be meaningful. 
+The primary goal here is to validate the code execution pipeline. 
+Preprocessing should tokenize these words and create sequences. 
+The model will attempt to learn patterns from this limited vocabulary. 
+Generation will then use the trained model to produce new text based on a seed.
